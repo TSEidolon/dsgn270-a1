@@ -34,6 +34,7 @@ Best Buy is a multinational retailer of electronics and its related merchandise.
 <br>
 
 ## Wireflow
-<img src="https://github.com/TSEidolon/dsgn270-a1/blob/b6dad8e7c2ac2525177c18d8816651398b944b83/images/bestbuy-wireframe1.png"/>
+<img src="images/bestbuy-wireframe1.png"/>
+
 
 
