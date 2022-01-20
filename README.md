@@ -2,10 +2,13 @@
 
 
 <h1><strong>Best Buy Agile UX Breakdown </strong> (DSGN 270 Assignment 1) </h1>
+<h3>by: Edgar Francis Caballero </h3>
+<hr>
+<strong> Summary: </strong>
 
 Best Buy is a multinational retailer of electronics and its related merchandise. 
 
-<hr>
+
 <br>
 
 ## User stories 
